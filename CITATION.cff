@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "HGSE LIT Lab"
-  given-names: "Harvard University Graduate School of Education"
+  given-names: "Harvard University"
 title: "AR CYBS Toolkit"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
